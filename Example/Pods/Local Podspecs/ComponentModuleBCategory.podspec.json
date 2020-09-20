@@ -1,6 +1,6 @@
 {
   "name": "ComponentModuleBCategory",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "ComponentModuleB对外接口.",
   "description": "ComponentModuleB对外接口.",
   "homepage": "https://github.com/jiaojiaozhe/ComponentModuleBCategory",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/jiaojiaozhe/ComponentModuleBCategory.git",
-    "tag": "0.0.2"
+    "tag": "0.0.4"
   },
   "platforms": {
     "ios": "8.0"

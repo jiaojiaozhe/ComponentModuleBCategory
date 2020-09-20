@@ -1,6 +1,6 @@
 PODS:
   - ComponentMiddleware (0.0.2)
-  - ComponentModuleBCategory (0.0.2):
+  - ComponentModuleBCategory (0.0.4):
     - ComponentMiddleware
 
 DEPENDENCIES:
@@ -16,7 +16,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   ComponentMiddleware: 69d1b25293355a4784aa42d9ab9e736bdda69151
-  ComponentModuleBCategory: 071d919179929fd282fb899e6ae93277cf588b64
+  ComponentModuleBCategory: 628b3f1fafb54a4a3db0858d06e8330d3724dd1f
 
 PODFILE CHECKSUM: 7592f07413d5d13dc72d2bc9c55f6ed3557acc54
 

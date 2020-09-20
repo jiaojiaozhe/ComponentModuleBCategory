@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "Middleware+ComponentModuleB.h"
 
 FOUNDATION_EXPORT double ComponentModuleBCategoryVersionNumber;
 FOUNDATION_EXPORT const unsigned char ComponentModuleBCategoryVersionString[];
