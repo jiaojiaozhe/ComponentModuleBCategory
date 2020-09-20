@@ -1,0 +1,23 @@
+PODS:
+  - ComponentMiddleware (0.0.2)
+  - ComponentModuleBCategory (0.0.1):
+    - ComponentMiddleware
+
+DEPENDENCIES:
+  - ComponentModuleBCategory (from `../`)
+
+SPEC REPOS:
+  https://github.com/jiaojiaozhe/XAbstractionLibrary-Specs:
+    - ComponentMiddleware
+
+EXTERNAL SOURCES:
+  ComponentModuleBCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ComponentMiddleware: 69d1b25293355a4784aa42d9ab9e736bdda69151
+  ComponentModuleBCategory: 744ded4aa1ad69520479af143f9864235fd1c2f1
+
+PODFILE CHECKSUM: 7592f07413d5d13dc72d2bc9c55f6ed3557acc54
+
+COCOAPODS: 1.9.1

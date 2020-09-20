@@ -1,0 +1,27 @@
+{
+  "name": "ComponentModuleBCategory",
+  "version": "0.0.1",
+  "summary": "ComponentModuleB对外接口.",
+  "description": "ComponentModuleB对外接口.",
+  "homepage": "https://github.com/jiaojiaozhe/ComponentModuleBCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jiaojiaozhe": "bluebiao@163.com"
+  },
+  "source": {
+    "git": "https://github.com/jiaojiaozhe/ComponentModuleBCategory.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ComponentModuleBCategory/Classes/**/*",
+  "dependencies": {
+    "ComponentMiddleware": [
+
+    ]
+  }
+}
