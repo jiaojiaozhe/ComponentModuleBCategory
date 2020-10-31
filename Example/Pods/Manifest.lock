@@ -1,5 +1,5 @@
 PODS:
-  - ComponentMiddleware (0.0.2)
+  - ComponentMiddleware (0.0.4)
   - ComponentModuleBCategory (0.0.5):
     - ComponentMiddleware (< 1.0.0)
 
@@ -15,9 +15,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ComponentMiddleware: 69d1b25293355a4784aa42d9ab9e736bdda69151
-  ComponentModuleBCategory: 6d76e2f1b4d79d02e71c55d11c1754b1d95a3c28
+  ComponentMiddleware: 3c87d5351203916b70ad995c46308846d2ba0211
+  ComponentModuleBCategory: 1ac6ba43dc00847945fb1146189c52e1b1dbe30e
 
-PODFILE CHECKSUM: 7febce0049f0975f90009773f281fd80807a4769
+PODFILE CHECKSUM: 101a17409218af472f7e2244167f12d5873391f7
 
 COCOAPODS: 1.9.1
